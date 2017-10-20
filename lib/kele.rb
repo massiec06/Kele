@@ -1,5 +1,5 @@
 require 'httparty'
-require 'roadmap'
+require './lib/roadmap'
 #require 'json'
 
 class Kele
